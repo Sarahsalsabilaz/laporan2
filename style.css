@@ -1,0 +1,38 @@
+/* CSS eksternal untuk styling halaman */
+
+/* Simulasi zoom 150% dengan memperbesar font */
+body {
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+/* Judul utama */
+h1 {
+    font-weight: bold;
+}
+
+/* Class .nama: teks kuning, latar biru */
+.nama {
+    color: #ffff00; /* teks kuning */
+    background-color: #0000ff; /* latar biru */
+    padding: 5px;
+}
+
+/* ID #nim: teks biru */
+#nim {
+    color: #0000ff;
+}
+
+/* Paragraf dengan bg kuning */
+.teks2 {
+    background-color: #ffff00;
+    padding: 10px;
+}
+
+/* Link warna biru dan underline */
+a {
+    color: blue;
+    text-decoration: underline;
+}
